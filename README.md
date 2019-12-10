@@ -15,7 +15,7 @@ I wrote a simple python program to run during the performance. The program reads
 
 You need to solder the pins and the antenna and install the correct libraries for the Arduino IDE.
 
-To make the radios communicate, I changed some of the inputs in the code from the RadioHead library. The debugging process was frustrating at first but ultimately rewarding.
+To make the radios communicate, I changed some of the inputs in the code from the RadioHead library, which you can find here: https://github.com/PaulStoffregen/RadioHead. 
 
 Once they are communicating, the rest of the process is easy. You can modify the code to send your specific message to the serial port.
 
