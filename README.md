@@ -3,7 +3,7 @@ Make Radios Communicate to Start Funky Music and Disco Lights
 
 # Project Summary 
 
-This is a project I did for a Physical Computing class with Danne Woo. 
+This is a project I did for a Physical Computing class with Danne Woo in Spring 2018. 
 
 I built a radio system that can be used in live performances. I used two Adafruit Feather m0 RFM69 radios and uploaded code to them using the Arduino IDE that we learned to use in class.
 
